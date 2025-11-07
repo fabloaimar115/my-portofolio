@@ -54,8 +54,8 @@ const Contact = () => {
               </div>
             </div>
             <div className="social-links">
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub</a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              <a href="https://github.com/fabloaimar115" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://www.linkedin.com/in/fablo-aimar-6a8a9a386/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
             </div>
           </div>
