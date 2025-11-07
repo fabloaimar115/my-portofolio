@@ -8,7 +8,7 @@ const Login = ({ onLogin }) => {
     e.preventDefault();
     
     // Password yang bisa Anda ganti (simpan di environment variables untuk production)
-    const correctPassword = 'admin123'; // Ganti dengan password yang Anda inginkan
+    const correctPassword = 'FabloAimar113'; // Ganti dengan password yang Anda inginkan
     
     if (password === correctPassword) {
       localStorage.setItem('portfolioAuthenticated', 'true');
